@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/default_interface_method/default_interface_method.iml" filepath="$PROJECT_DIR$/default_interface_method/default_interface_method.iml" />
       <module fileurl="file://$PROJECT_DIR$/java8-features.iml" filepath="$PROJECT_DIR$/java8-features.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lambda_expression/lambda_expression.iml" filepath="$PROJECT_DIR$/lambda_expression/lambda_expression.iml" />
     </modules>
   </component>
 </project>
